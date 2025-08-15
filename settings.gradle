@@ -1,0 +1,5 @@
+rootProject.name = 'chat-application'
+
+include 'services:chat'
+include 'services:presence'
+include 'services:users'

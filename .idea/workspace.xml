@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0913c32e-64e4-4c6e-b87a-75b940a19f4b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/services/users/chat-application.services.users.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/chat/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/chat/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/chat/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/chat/src/main/java/com/talkit/chat/ChatApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/chat/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/chat/src/test/java/com/talkit/chat/ChatApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/presence/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/presence/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/presence/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/presence/src/main/java/com/talkit/presence/PresenceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/presence/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/presence/src/test/java/com/talkit/presence/PresenceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/users/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/users/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/users/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/users/src/main/java/com/talkit/users/UsersApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/users/src/main/java/com/talkit/users/configuration/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/users/src/main/java/com/talkit/users/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/users/src/main/java/com/talkit/users/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/users/src/main/java/com/talkit/users/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/users/src/main/java/com/talkit/users/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/users/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/users/src/test/java/com/talkit/users/UsersApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="chat-application" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="31HGwvOXOXckvrjOZuXOP9E9Nq7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0913c32e-64e4-4c6e-b87a-75b940a19f4b" name="Changes" comment="" />
+      <created>1755173827124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755173827124</updated>
+    </task>
+    <servers />
+  </component>
+</project>
